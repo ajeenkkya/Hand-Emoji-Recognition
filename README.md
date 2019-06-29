@@ -9,10 +9,14 @@ Data was created by shooting a video of hand doing different emojis, video was 3
 Sample input images after processing are:
 
 ![105](https://user-images.githubusercontent.com/35074988/60382475-20026f80-9a81-11e9-88f4-bc6aae16dbff.jpg)
+![103](https://user-images.githubusercontent.com/35074988/60382496-5e982a00-9a81-11e9-9761-692059cf68a6.jpg)
+![101](https://user-images.githubusercontent.com/35074988/60382510-956e4000-9a81-11e9-8c5e-185ab391aa0d.jpg)
 
 After training the images i did manual testing of the model for that i just click an image through my phone and just passed it to the processing function in *classify_result.ipnb*.
 
 The sample image i used for manual testing is:
+
+![IMG_3](https://user-images.githubusercontent.com/35074988/60382537-e2521680-9a81-11e9-95a2-4c654d7bd705.jpg)
 
 ## Problems faced
 In the following project some of the problems i encountered were:
