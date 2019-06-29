@@ -6,7 +6,9 @@ This project is on Hand emojis recognition, where there are 11 types of differen
 ## The Data
 Data was created by shooting a video of hand doing different emojis, video was 30 fps which gave 30 frames per second so a footage of 40 seconds would give me 1200 images, of which i used 1000 for training and 200 for testing, this i did for every 11 classes.
 
-Sample input image after processing is:
+Sample input images after processing are:
+
+![105](https://user-images.githubusercontent.com/35074988/60382475-20026f80-9a81-11e9-88f4-bc6aae16dbff.jpg)
 
 After training the images i did manual testing of the model for that i just click an image through my phone and just passed it to the processing function in *classify_result.ipnb*.
 
