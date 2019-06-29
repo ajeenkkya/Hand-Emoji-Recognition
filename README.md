@@ -4,7 +4,7 @@
 This project is on Hand emojis recognition, where there are 11 types of different hand emojis consisting of 1000 images per class of 50x50 resolution. Total of 11000 training images and 2200 of testing images are fed to the network.
 
 ## The Data
-Data was created by shooting a video of hand doing different emojis, video was 30 fps which gave 30 frames per second so a footage of 40 seconds would give me 1200 images, of which i used 1000 for training and 200 for testing, this i did for every 11 classes.
+Data was created by shooting a video of hand doing different emojis, video was 30 fps which gave 30 frames per second so a footage of 40 seconds would give me 1200 images, of which i used 1000 for training and 200 for testing, this i did for every 11 classes. Data folder can be found at https://drive.google.com/file/d/1g_zwgvrWSCXvgwxFXz-4Qc7NSt1GRF0E/view?usp=sharing
 
 Sample input images after processing are:
 
