@@ -18,6 +18,10 @@ The sample image i used for manual testing is:
 
 ![IMG_3](https://user-images.githubusercontent.com/35074988/60382537-e2521680-9a81-11e9-95a2-4c654d7bd705.jpg)
 
+## Process
+Firstly use *create database.ipnb* to create images from video while creating the database split training data and testing data.
+Then use *emoji_train.ipnb* to train the model on the images which creates *hand_emoji_v5.h5* file which is just a file where the weights of the network are saved which can be used to load the model. Now, to manually test the images use *classify_result.ipnb* it would show to images with its predicted label.
+
 ## Problems faced
 In the following project some of the problems i encountered were:
 
