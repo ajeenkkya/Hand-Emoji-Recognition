@@ -27,6 +27,6 @@ In the following project some of the problems i encountered were:
 
 **1:** I tried to re-use the code from my last project which was Devanagari Handwriting recognition(https://github.com/ajeenkkya/Devanagari-handwriting-recognition) but the images was 32x32 which used 1024 columns in spreadsheet but in this case the image had to be minimum 50x50 for the data to be relevant which needed 2500 columns which was not possible. So I had to redo the data storing part and i just got rid of storing the images in a csv file instead i directly saved the data in a numpy array.
 
-**2:** The model was overfitting and my best guess is because of less data. I used a batch notmalization, l2 regularizarion and dropout layers to overcome overfitting.
+**2:** The model was overfitting and my best guess is because of less data which caused to misclassify a result in manual testing. I used a batch notmalization, l2 regularizarion and dropout layers to overcome overfitting.
 
-**3:** A lot of trial and error had to be done to perfect the model.
+**3:** A lot of trial and error on hyperparameters and data had to be done to perfect the model.
