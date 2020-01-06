@@ -30,3 +30,6 @@ In the following project some of the problems i encountered were:
 **2:** The model was overfitting and my best guess is because of less data which caused to misclassify a result in manual testing. I used a batch notmalization, l2 regularizarion and dropout layers to overcome overfitting.
 
 **3:** A lot of trial and error on hyperparameters and data had to be done to perfect the model.
+
+## The Result
+![](result.gif)
